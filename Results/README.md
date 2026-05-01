@@ -1,12 +1,10 @@
 # Basic-project-IA
-Esta carpeta contiene el código principal del proyecto.
+Esta carpeta almacena los resultados generados por el proyecto.
 
-## Estructura
+## Contenido
 
-- main.py: punto de entrada del programa
-- model.py: definición del modelo de IA
-- utils.py: funciones auxiliares
+- Métricas de evaluación
+- Gráficas y visualizaciones
+- Modelos entrenados
 
 ## Notas
-- El código aquí debe estar limpio y organizado
-- Evitar código experimental (usar notebooks para eso)
